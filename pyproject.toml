@@ -27,3 +27,6 @@ members = ["rye-devtools"]
 
 [tool.pytest.ini_options]
 addopts = "--ignore target"
+
+[tool.setuptools]
+py-modules = ["_install_hook"]
